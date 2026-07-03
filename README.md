@@ -44,7 +44,7 @@
 这些文件是本地 canonical 日记存档的备份副本，来源目录：
 
 ```text
-/Users/molin/.hermes/memory/daily-diary/
+~/.hermes/memory/daily-diary/
 ```
 
 后续如果继续自动备份，应以该本地目录中的 `YYYY-MM-DD.md` 文件为准。
